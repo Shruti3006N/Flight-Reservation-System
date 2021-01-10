@@ -6,3 +6,8 @@
 <h2> Flight Ticket</h2>
 
 ![flight-ticket-big-image-1-blogspot_1418727472_725x725](https://user-images.githubusercontent.com/75172497/104131896-874fee00-539f-11eb-84a9-2e345f77ea3a.jpg)
+
+Hotels... 
+
+
+<img width="340" alt="Screen-Shot-2019-06-20-at-11 28 50-AM" src="https://user-images.githubusercontent.com/75172497/104132004-7eabe780-53a0-11eb-9feb-60469fdac5ff.png">
